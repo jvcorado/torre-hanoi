@@ -216,7 +216,7 @@ button {
     }
     .hanoi{
         height:200px;
-        background-color: rgba(137, 43, 226, 0.308);
+        background-color: rgb(137, 43, 226);
     }
     .torre {
         margin:50px;
