@@ -204,7 +204,7 @@ button {
     }
     .instrucoes{
         padding: 10px;
-        background-color: blue;
+  
         margin-bottom: 0;
     }
     .botoes{
@@ -213,7 +213,7 @@ button {
         align-items: center;
         flex-direction: column;
         margin: 0px;
-        background-color: aqua;
+ 
     }
     .btn{
         width: 80vw;
