@@ -200,4 +200,42 @@ button {
         width: 100vw;
         background-color: rgb(127, 140, 255);
     }
+    .torre {
+        margin: 30px;
+
+    
+    }
+    .disco-base {
+        width: 100px;
+   
+    
+    }
+    
+    
+    .d1 {
+        background-color: rgb(119, 7, 68);
+        width: 90px;
+    
+    }
+    
+    .d2 {
+        background-color: rgb(24, 4, 95);
+        width: 80px;
+    }
+    
+    .d3 {
+        background-color: rgb(170, 20, 150);
+        width: 70px;
+    }
+    
+    .d4 {
+        background-color: rgb(27, 15, 196);
+        width: 60px;
+    }
+    
+    .d5 {
+        background-color: rgb(236, 10, 199);
+        width: 50px;
+    
+    }
 }
