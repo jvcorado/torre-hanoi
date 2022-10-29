@@ -204,7 +204,6 @@ button {
     }
     .instrucoes{
         padding: 10px;
-  
         margin-bottom: 0;
     }
     .botoes{
@@ -220,7 +219,7 @@ button {
         width: 80vw;
     }
     .hanoi{
-        margin-top: 5px;
+        margin-top: 30px;
         height:200px;
         background:url(./img/2206_w026_n002_2028b_p1_2028.jpg);
         background-repeat: no-repeat;
