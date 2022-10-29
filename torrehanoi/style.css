@@ -198,11 +198,10 @@ button {
     }
     header{
         width: 100vw;
-        background-color: rgb(255, 94, 0);
+
     }
     main{
         width: 100vw;
-        background-color: rgb(129, 127, 255);
     }
     .botoes{
         display: flex;
