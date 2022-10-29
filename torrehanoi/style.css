@@ -203,6 +203,9 @@ button {
     main{
         width: 100vw;
     }
+    .instrucoes{
+        padding: 10px;
+    }
     .botoes{
         display: flex;
         justify-content: center;
