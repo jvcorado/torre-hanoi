@@ -20,7 +20,6 @@ img {
 
 
 .instrucoes {
-    background-color: rgba(0, 100, 139, 0.164);
     color: white;
     margin-bottom: 30px;
     text-align: center;
@@ -217,7 +216,7 @@ button {
     }
     .hanoi{
         height:200px;
-        background-color: blueviolet;
+        background-color: rgba(137, 43, 226, 0.308);
     }
     .torre {
         margin:50px;
