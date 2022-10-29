@@ -193,6 +193,7 @@ button {
         
     }
     img{
+        margin-top: 20px;
         width: 80vw;
     }
     header{
@@ -202,6 +203,15 @@ button {
     main{
         width: 100vw;
         background-color: rgb(129, 127, 255);
+    }
+    .botoes{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .btn{
+        width: 80vw;
     }
     .hanoi{
         height:200px;
