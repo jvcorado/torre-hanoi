@@ -212,7 +212,6 @@ button {
         flex-direction: column;
     }
     .btn{
-        margin: 5px;
         width: 80vw;
     }
     .hanoi{
