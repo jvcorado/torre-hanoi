@@ -205,6 +205,7 @@ button {
     .instrucoes{
         padding: 10px;
         background-color: blue;
+        margin-bottom: 0;
     }
     .botoes{
         display: flex;
