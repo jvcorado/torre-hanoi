@@ -201,9 +201,12 @@ button {
         background-color: rgb(127, 140, 255);
     }
     .torre {
-        margin: 30px;
+        margin: 70px;
 
     
+    }
+    .disco{
+        height: 25px;
     }
     .disco-base {
         width: 100px;
