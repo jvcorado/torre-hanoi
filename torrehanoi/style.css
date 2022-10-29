@@ -211,6 +211,7 @@ button {
         align-items: center;
         flex-direction: column;
         margin: 0px;
+        background-color: aqua;
     }
     .btn{
         width: 80vw;
