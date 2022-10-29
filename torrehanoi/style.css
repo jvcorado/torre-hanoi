@@ -216,7 +216,9 @@ button {
     }
     .hanoi{
         height:200px;
-        background-color: rgb(137, 43, 226);
+        background:url(./img/2206_w026_n002_2028b_p1_2028.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
     }
     .torre {
         margin:50px;
