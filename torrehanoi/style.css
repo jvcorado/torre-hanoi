@@ -192,13 +192,19 @@ button {
         height: 100vh;
         
     }
+    img{
+        width: 80vw;
+    }
     header{
         width: 100vw;
-        background-color: rgb(255, 0, 212);
+        background-color: rgb(255, 94, 0);
     }
     main{
         width: 100vw;
-        background-color: rgb(127, 255, 206);
+        background-color: rgb(129, 127, 255);
+    }
+    .hanoi{
+        height:200px;
     }
     .torre {
         margin:50px;
